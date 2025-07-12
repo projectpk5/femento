@@ -1,0 +1,33 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.outerbox {
+    margin: auto;
+    top: 50%;
+    transform: translateY(50%);
+    background-color: white;
+    border-radius: 10px;
+    height: 380px;
+    width: 240px;
+    align-items: center;
+}
+
+#image {
+    margin-top: 10px;
+    height: 200px;
+    width: 220px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.innerbox {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+p {
+    color:hsl(216, 15%, 48%);
+    font-size: 15px;
+}
